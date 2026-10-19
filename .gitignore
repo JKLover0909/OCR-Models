@@ -1,0 +1,22 @@
+# Python / Jupyter
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# OCR model caches / outputs
+.EasyOCR/
+.paddleocr/
+inference/
+output/
+
+# Secrets
+.env
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.log
